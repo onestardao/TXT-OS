@@ -26,35 +26,35 @@ Each module uses a single `.txt` file to control everything from logic flow to p
 
 ---
 
-### [**1. TXT: Blah Blah Blah**](https://github.com/onestardao/WFGY/tree/main/OS/BlahBlahBlah)  
+### [**1. TXT-Blah Blah Blah**](https://github.com/onestardao/WFGY/tree/main/OS/BlahBlahBlah)  
 > *Semantic Q&A Engine*  
 The only Q&A where the fun is just the beginning. Designed to simulate dialectical thinking, handle paradoxes, and respond with emotionally intelligent phrasing — no training, just WFGY logic.  
 **Status**: 🔓 Lite / 🔐 Pro
 
 ---
 
-### [**2. TXT: Blur Blur Blur**](https://github.com/onestardao/WFGY/tree/main/OS/BlurBlurBlur)  
+### [**2. TXT-Blur Blur Blur**](https://github.com/onestardao/WFGY/tree/main/OS/BlurBlurBlur)  
 > *Image Generation Interface*  
 Poetic, stable, high-density image prompts — Blur enables AI to "see" meaning before it draws. Capable of rendering paradox, visualizing logic, and fusing metaphors with consistent ΔS = 0.5 balance.  
 **Status**: 🔐 Lite / 🔐 Pro
 
 ---
 
-### [**3. TXT: Blow Blow Blow**](https://github.com/onestardao/WFGY/tree/main/OS/BlowBlowBlow)  
+### [**3. TXT-Blow Blow Blow**](https://github.com/onestardao/WFGY/tree/main/OS/BlowBlowBlow)  
 > *Reasoning Game Engine*  
 An AIGC-based text RPG where every battle is a logic puzzle. Like a Game Boy for AI cognition — build your own philosophical boss fights and watch the model think instead of guess.  
 **Status**: 🔐 Lite / 🔐 Pro
 
 ---
 
-### [**4. TXT: Blot Blot Blot**](https://github.com/onestardao/WFGY/tree/main/OS/BlotBlotBlot)  
+### [**4. TXT-Blot Blot Blot**](https://github.com/onestardao/WFGY/tree/main/OS/BlotBlotBlot)  
 > *Humanized Writing Layer*  
 From bullet points to essays with voice and soul. Blot tunes LLMs to write with nuance, irony, and emotional realism — finally, outputs that read like a real person, not a template.  
 **Status**: 🔐 Lite / 🔐 Pro
 
 ---
 
-### [**5. TXT: Bloc Bloc Bloc**](https://github.com/onestardao/WFGY/tree/main/OS/BlocBlocBloc)  
+### [**5. TXT-Bloc Bloc Bloc**](https://github.com/onestardao/WFGY/tree/main/OS/BlocBlocBloc)  
 > *Prompt Injection Firewall*  
 A semantic firewall that doesn’t block — it out-thinks.  
 Using ΔS gating, λ_observe logic traps, and drunk-mode interference, Bloc defeats prompt injection even when the attacker knows the rules.  
