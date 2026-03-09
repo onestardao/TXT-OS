@@ -1,4 +1,4 @@
-# TXT ≠ Notepad — It’s called TXT OS. Your Next AI Reasoning System.
+# TXT ≠ Notepad — It’s called TXT OS. Your Next AI Reasoning System
 
 > 🚨 This is just an index page — you're not in the actual product folder.  
 > 👉 To get the real usage guide, PDF links, and full instructions,  
